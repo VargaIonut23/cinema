@@ -1,0 +1,12 @@
+{
+  "1": {
+    "py/object": "Domain.clientcard.ClientCard",
+    "entity_id": "1",
+    "Nume": "i",
+    "Prenume": "i",
+    "CNP": "1234567891011",
+    "DataNasterii": "12.12.12",
+    "DataInregistrarii": "12.12.12",
+    "PuncteAcumulate": 0.0
+  }
+}

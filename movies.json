@@ -1,0 +1,29 @@
+{
+  "LXXc": {
+    "py/object": "Domain.movie.Movie",
+    "entity_id": "LXXc",
+    "nameMovie": "CgGX",
+    "year": 1825,
+    "ticketPrice": 1925,
+    "inProgram": "nu",
+    "nrReservation": 0
+  },
+  "EhWZ": {
+    "py/object": "Domain.movie.Movie",
+    "entity_id": "EhWZ",
+    "nameMovie": "oGwW",
+    "year": 1807,
+    "ticketPrice": 1888,
+    "inProgram": "nu",
+    "nrReservation": 0
+  },
+  "oUHX": {
+    "py/object": "Domain.movie.Movie",
+    "entity_id": "oUHX",
+    "nameMovie": "yudX",
+    "year": 1965,
+    "ticketPrice": 1934,
+    "inProgram": "da",
+    "nrReservation": 0
+  }
+}
